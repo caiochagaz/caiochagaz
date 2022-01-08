@@ -68,14 +68,14 @@
     <img
       align="center"
       height="150em"
-      src= "https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/caiochagaz/)"
+      src= "https://github-readme-stats.vercel.app/api?username=caiochagaz&theme=default&show_icons=true)](https://github.com/caiochagaz/)"
     />
   </a>
   <a href="https://github.com/seu-usuario">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="(https://github-readme-stats.vercel.app/api/top-langs/?username=caiochagaz&hide=html&layout=compact&theme=default)](https://github.com/caiochagaz/)"
     />
   </a>
 </p>
