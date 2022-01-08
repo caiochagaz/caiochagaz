@@ -68,7 +68,7 @@
     <img
       align="center"
       height="150em"
-      src=[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/iuricode/)
+      src= "https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/caiochagaz/)"
     />
   </a>
   <a href="https://github.com/seu-usuario">
