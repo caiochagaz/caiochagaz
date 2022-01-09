@@ -6,8 +6,6 @@
 
 <p align="center">
  📌 Contato:
-  
-  
 </p>
 
 <p align="center">
@@ -17,11 +15,8 @@
   <a href="https://www.linkedin.com/in/caio-chagas-b30957199/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-chagas-b30957199/" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-
-<h1 align="center">Linguagens e Ferramentas 🔧 </h1></img>
+<h1 align="center">Languages and tools 🔧 </h1></img>
 
  <p align="center">
    <a href="https://code.visualstudio.com/">
