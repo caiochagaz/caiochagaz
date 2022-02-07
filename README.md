@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Hello, Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
 
 <p align="center"> 
-  Me chamo <strong>Caio</strong> sou estudante de<strong> web dev fullstack</strong>.<br>
+  Me chamo <strong>Caio</strong> sou <strong>fullstack web developer</strong>.<br>
 </p>
 
 <p align="center">
