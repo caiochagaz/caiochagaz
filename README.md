@@ -1,114 +1,63 @@
-<h1 align="center">Olá, Hello, Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=caiochagaz.caiochagaz&left_color=royalblue&right_color=royalblue"  />
+</div>
 
-<p align="center"> 
-  Me chamo <strong>Caio</strong> sou <strong>fullstack web developer</strong>.<br>
-</p>
+###
 
-<p align="center">
- 📌 Contato:
-</p>
+<h2 align="center">Hi, I'm Caio a Bachelor's student in Information Systems, and a Full Stack Web Developer interested in Data Analysis.👋🏼👨🏻‍💻📊</h2>
 
-<p align="center">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+###
 
-  <a href="https://www.linkedin.com/in/caio-chagas-b30957199/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-chagas-b30957199/" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&username=caiochagaz" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=caiochagaz" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<h1 align="center">Languages and tools 🔧 </h1></img>
+<h2 align="center">contact</h2>
 
- <p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
-</p>
+###
 
-
-
-<p align ="center">
-
-   <a href="">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-   </a>
-  
-   <a href="https://angular.io/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-   </a>
-  
-   <a href="https://getbootstrap.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-   </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>  
-  
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-  
-  
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-  
-   <a href="https://www.typescriptlang.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-  
-  <a href="https://www.java.com/pt-BR/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   </a> 
-  
-  <a href="https://jquery.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-   </a> 
-  
-   <a href="https://www.mongodb.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-   </a> 
-  
-  <a href="https://www.mysql.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="40" height="40"/>
-   </a>
-  
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-  
-  <a href="https://www.npmjs.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-   </a> 
-
-</p>
-
-<h4 align="center">
-<details>
-<summary>📊</summary>
-  
-<h1 align="center">GitHub Stats 👨🏻‍💻</h1></img>
-
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="150em"
-      src= "https://github-readme-stats.vercel.app/api?username=caiochagaz&theme=default&show_icons=true)](https://github.com/caiochagaz/)"
-    />
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiochagaz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiochagaz&hide=html&layout=compact&theme=default)](https://github.com/caiochagaz/)"
-    />
-  </a>
-</p>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
 
+###
 
+<h2 align="center">languages and tools</h2>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" width="43" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" width="43" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" width="43" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" width="43" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" width="43" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="38" width="43" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" width="43" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="38" width="43" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" width="43" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" width="43" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" width="43" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" width="43" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="38" width="43" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" width="43" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" width="43" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" width="43" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="38" width="43" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" width="43" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" width="43" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/3o7btV1prqiRUwHDeo/giphy.gif"  />
+</div>
+
+###
