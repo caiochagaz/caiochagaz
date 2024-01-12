@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3o7btV1prqiRUwHDeo/giphy.gif"  />
+
 </div>
 
 ###
